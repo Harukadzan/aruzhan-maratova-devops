@@ -25,3 +25,4 @@ if [ -f "Aruzhan_Maratova_info.txt" ]; then
 else
     echo "Student information file does not exist."
 fi
+# Updated by Aruzhan
